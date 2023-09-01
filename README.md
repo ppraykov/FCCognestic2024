@@ -6,4 +6,4 @@ Materials for the "Functional connectivity" workshop at the Cognitive Neuroscien
 
 The notebook shows example of running seed-to-voxel, ROI-to-ROI and ICA decomposition methods for fMRI analyses.
 
-#### See here Pre-run [Notebook](https://htmlpreview.github.io/?https://github.com/ppraykov/FCCognestic2023/blob/main/FC_Cognestic_pre_run.html)
+#### See here for pre-run [Notebook](https://htmlpreview.github.io/?https://github.com/ppraykov/FCCognestic2023/blob/main/FC_Cognestic_pre_run.html)
