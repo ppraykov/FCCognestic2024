@@ -8,7 +8,7 @@
 # ---
 # 
 # 
-# #### Petar Raykov & Rik Henson
+# #### Petar Raykov
 
 # ## This tutorial is using the nilearn and nltools toolboxes to install them run the cell below
 
